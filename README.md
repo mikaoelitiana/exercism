@@ -10,31 +10,6 @@ Exercism is a free, open-source platform for learning programming languages thro
 
 This repository is a personal collection of my completed Exercism exercises. It serves as a portfolio of my coding practice and learning journey across different programming languages.
 
-## Languages and Exercises
-
-### Python
-
-The Python track includes exercises covering fundamental concepts:
-
-- **Hello World** - Introduction to Python syntax
-- **Guido's Gorgeous Lasagna** - Working with functions and arithmetic
-- **Ghost Gobble Arcade Game** - Boolean operations
-- **Black Jack** - Conditional logic
-- **Little Sisters Essay** - String manipulation
-- **Little Sisters Vocab** - More string methods
-- **Making the Grade** - Lists and loops
-- **Card Games** - List operations
-- **Meltdown Mitigation** - Conditionals
-
-### Elixir
-
-The Elixir track includes exercises on functional programming concepts:
-
-- **Lasagna** - Basic functions and pattern matching
-- **Log Level** - String manipulation
-- **Pacman Rules** - Boolean logic
-- **Secrets** - Bitwise operations
-
 ## Repository Structure
 
 ```
